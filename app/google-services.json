@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749424451809",
+    "project_id": "pikapptest-7b13b",
+    "storage_bucket": "pikapptest-7b13b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749424451809:android:18c648ce1c7c0f444217a0",
+        "android_client_info": {
+          "package_name": "com.example.pikapptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749424451809-fku7qqfs1bklviactlqgov8beif6415l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfR8PkHnOw-_WRKF5ZMPs2EumiXUUsav4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749424451809-fku7qqfs1bklviactlqgov8beif6415l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

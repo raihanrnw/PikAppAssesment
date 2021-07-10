@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PikAppTest</string>
+    <string name="input_username">Input Username</string>
+    <string name="input_password">Input Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="input_email">Input Email</string>
+    <string name="sign_out">Sign Out</string>
+
+</resources>
